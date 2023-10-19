@@ -1,0 +1,1 @@
+Ocorreu uma exceção na classe Exemplo2: Arquivo não encontrado: arquivo.txt (O sistema não pode encontrar o arquivo especificado)

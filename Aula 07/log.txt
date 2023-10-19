@@ -1,0 +1,13 @@
+Ocorreu uma exceção na classe Exemplos: Erro de divisão: / by zero
+Ocorreu uma exceção na classe Exemplos: Erro de índice: Index 4 out of bounds for length 3
+Ocorreu uma exceção na classe Exemplos: Erro de ponteiro nulo: Cannot invoke "String.length()" because "texto" is null
+Ocorreu uma exceção na classe Exemplos: Erro de conversão: For input string: "A"
+Ocorreu uma exceção na classe Exemplos: Erro de divisão: / by zero
+Ocorreu uma exceção na classe Exemplos: Erro de índice: Index 4 out of bounds for length 3
+Ocorreu uma exceção na classe Exemplos: Erro de ponteiro nulo: Cannot invoke "String.length()" because "texto" is null
+Ocorreu uma exceção na classe Exemplos: Erro de conversão: For input string: "A"
+Ocorreu uma exceção na classe Exemplo4: Bloco finally executado.
+Erro de divisão: Divisão por zero.
+Erro de índice: Index 4 out of bounds for length 3
+Erro de ponteiro nulo: Cannot invoke "String.length()" because "texto" is null
+Erro de conversão: For input string: "A"
